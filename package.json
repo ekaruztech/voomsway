@@ -1,0 +1,19 @@
+{
+  "name": "voomsway",
+  "version": "1.0.0",
+  "description": "voomsway npm",
+  "main": "voomsway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekaruztech/voomsway.git"
+  },
+  "author": "Ekaruz technolody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekaruztech/voomsway/issues"
+  },
+  "homepage": "https://github.com/ekaruztech/voomsway#readme"
+}
