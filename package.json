@@ -1,6 +1,6 @@
 {
   "name": "voomsway",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "VoomTravel booking plugin",
   "main": "voomsway.js",
   "scripts": {
